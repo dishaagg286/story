@@ -1,0 +1,1 @@
+When you create an app, a git remote (called heroku) is also created and associated with your local git repository.
